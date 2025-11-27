@@ -11,7 +11,9 @@ CWT provides cutting-edge digital solutions to help businesses scale and thrive.
 - **⛓️ Blockchain Development** – Secure and decentralized applications for the future.  
 - **🎨 UI/UX Design** – Intuitive and visually appealing designs for better user experience.  
 - **🧑‍💻 Tech Consultancy** – Expert guidance to help your business navigate the digital space.  
-- **📦 Product Design** – Transforming ideas into scalable, user-friendly products.  
+- **📦 Product Design** – Transforming ideas into scalable, user-friendly products.
+- **🧪 Software Testing – Comprehensive QA and testing to ensure reliability and performance.
+- **📋 Project Management – Strategic planning and execution to deliver projects on time and within budget.  
 
 ## Why Choose CWT?  
 - ✅ **Expertise:** A team of seasoned professionals in web, mobile, AI, and blockchain solutions.  
