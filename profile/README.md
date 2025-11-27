@@ -19,8 +19,8 @@ CWT provides cutting-edge digital solutions to help businesses scale and thrive.
 - 🔒 **Security:** Ensuring your digital assets are safe and secure.  
 
 ## Contact Us  
-- 📩 **Email:** hello@codewithty.dev
-- 🌍 **Website:** [codewithty.dev](https://codewithty.dev)  
-- 🐦 **Twitter:** [@Codewithty_](https://x.com/codewithty_)  
-- 💼 **Instagram:** [@Codewithty](https://instagram.com/codewithty)  
+- 📩 **Email:** hello@cwt.build
+- 🌍 **Website:** [cwt.build](https://cwt.build)  
+- 🐦 **Twitter:** [@cwtofficial_](https://x.com/cwtofficial_)  
+- 💼 **Instagram:** [@cwtofficial_](https://instagram.com/cwtofficial_)  
 
