@@ -1,4 +1,4 @@
-# **CWT — Learn Tech. Build Digital Products.**
+# **CWT: Learn Tech. Build Digital Products.**
 
 **CWT (Create With Tech)** helps people **learn in-demand tech skills** and helps businesses  
 **design, build, and ship digital products** — through real-world execution.
@@ -36,4 +36,4 @@ We train **tech professionals across multiple roles** using **hands-on, project-
 
 ---
 
-**CWT — Techcrafting Ideas.** 
+**CWT: Techcrafting Ideas.** 
